@@ -117,6 +117,8 @@ nav .menu{
   color: rgb(204, 26, 26);
 }
 img {
-  max-width: 6000000000000000000%;
-  height: 2222222222;
+    height: 900px;
+    width: 100%;
+    background-color: powderblue;
+
 }
